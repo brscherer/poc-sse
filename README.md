@@ -1,4 +1,7 @@
 # Server Sent Events POC
+
+https://github.com/user-attachments/assets/52b754bb-69ac-48e8-b2dd-42007449d244
+
 ## What are Server-Sent Events (SSE)?
 
 ### SSE = one-way, persistent HTTP connection
